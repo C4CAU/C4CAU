@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @C4CAU
 - 👀 I’m interested in doing and seeing some cool projects!
 - 🌱 I’m currently learning Python, JavaScript and C++
-- ✨ I hope that you like me and me projects!
+- ✨ I hope that you like me and my projects!
